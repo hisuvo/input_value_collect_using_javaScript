@@ -1,0 +1,25 @@
+article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#myInput{
+    padding: 1rem 1.4rem;
+    font-size: 1.3rem;
+}
+
+#btn1{
+    padding: 1rem 1.4rem;
+    font-size: 1.3rem;
+}
+
+.output{
+    width: 400px;
+    height: 10vw;
+    background-color: aliceblue;
+    border: 0.25px solid gray;
+    border-radius: 1rem;
+    padding: 1rem 1.4rem;
+}
